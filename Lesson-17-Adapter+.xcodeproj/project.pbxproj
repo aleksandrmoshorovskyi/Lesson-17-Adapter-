@@ -23,8 +23,6 @@
 		A8C87A452BD3A62300D1D303 /* SectionAdapterInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A3E2BD3A62300D1D303 /* SectionAdapterInput.swift */; };
 		A8C87A462BD3A62300D1D303 /* TableViewAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A402BD3A62300D1D303 /* TableViewAdapter.swift */; };
 		A8C87A472BD3A62300D1D303 /* TableViewAdapterInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A412BD3A62300D1D303 /* TableViewAdapterInput.swift */; };
-		A8C87A4C2BD3AC5B00D1D303 /* MyTableViewAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A4B2BD3AC5B00D1D303 /* MyTableViewAdapter.swift */; };
-		A8C87A4E2BD3AEE000D1D303 /* MyTableViewAdapterInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A4D2BD3AEE000D1D303 /* MyTableViewAdapterInput.swift */; };
 		A8C87A512BD3AF6C00D1D303 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A502BD3AF6C00D1D303 /* DataLoader.swift */; };
 		A8C87A542BD3B2CB00D1D303 /* BuyCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8C87A532BD3B2CB00D1D303 /* BuyCell.xib */; };
 		A8C87A562BD3B30500D1D303 /* BuyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A552BD3B30500D1D303 /* BuyCell.swift */; };
@@ -35,6 +33,8 @@
 		A8C87A642BD3CE9100D1D303 /* MyCellsSetSectionAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A632BD3CE9100D1D303 /* MyCellsSetSectionAdapter.swift */; };
 		A8C87A672BD3CF2900D1D303 /* MyCellAdapterInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A662BD3CF2900D1D303 /* MyCellAdapterInput.swift */; };
 		A8C87A692BD3D04F00D1D303 /* SwitchCellAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87A682BD3D04F00D1D303 /* SwitchCellAdapter.swift */; };
+		A8C87ACD2BD41A0F00D1D303 /* MyTableViewAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87ACB2BD41A0F00D1D303 /* MyTableViewAdapter.swift */; };
+		A8C87ACE2BD41A0F00D1D303 /* MyTableViewAdapterInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C87ACC2BD41A0F00D1D303 /* MyTableViewAdapterInput.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,8 +56,6 @@
 		A8C87A3E2BD3A62300D1D303 /* SectionAdapterInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SectionAdapterInput.swift; sourceTree = "<group>"; };
 		A8C87A402BD3A62300D1D303 /* TableViewAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewAdapter.swift; sourceTree = "<group>"; };
 		A8C87A412BD3A62300D1D303 /* TableViewAdapterInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewAdapterInput.swift; sourceTree = "<group>"; };
-		A8C87A4B2BD3AC5B00D1D303 /* MyTableViewAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyTableViewAdapter.swift; path = "Lesson-17-Adapter+/SwitcherCell/MyTableViewAdapter.swift"; sourceTree = SOURCE_ROOT; };
-		A8C87A4D2BD3AEE000D1D303 /* MyTableViewAdapterInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyTableViewAdapterInput.swift; path = "Lesson-17-Adapter+/SwitcherCell/MyTableViewAdapterInput.swift"; sourceTree = SOURCE_ROOT; };
 		A8C87A502BD3AF6C00D1D303 /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 		A8C87A532BD3B2CB00D1D303 /* BuyCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = BuyCell.xib; path = "Lesson-17-Adapter+/BuyCell/BuyCell.xib"; sourceTree = SOURCE_ROOT; };
 		A8C87A552BD3B30500D1D303 /* BuyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyCell.swift; sourceTree = "<group>"; };
@@ -68,6 +66,8 @@
 		A8C87A632BD3CE9100D1D303 /* MyCellsSetSectionAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCellsSetSectionAdapter.swift; sourceTree = "<group>"; };
 		A8C87A662BD3CF2900D1D303 /* MyCellAdapterInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCellAdapterInput.swift; sourceTree = "<group>"; };
 		A8C87A682BD3D04F00D1D303 /* SwitchCellAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchCellAdapter.swift; sourceTree = "<group>"; };
+		A8C87ACB2BD41A0F00D1D303 /* MyTableViewAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewAdapter.swift; sourceTree = "<group>"; };
+		A8C87ACC2BD41A0F00D1D303 /* MyTableViewAdapterInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewAdapterInput.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,8 +170,8 @@
 			children = (
 				A8C87A652BD3CECD00D1D303 /* MyCell */,
 				A8C87A592BD3B4E500D1D303 /* MySection */,
-				A8C87A4B2BD3AC5B00D1D303 /* MyTableViewAdapter.swift */,
-				A8C87A4D2BD3AEE000D1D303 /* MyTableViewAdapterInput.swift */,
+				A8C87ACB2BD41A0F00D1D303 /* MyTableViewAdapter.swift */,
+				A8C87ACC2BD41A0F00D1D303 /* MyTableViewAdapterInput.swift */,
 			);
 			path = MyTableAdapter;
 			sourceTree = "<group>";
@@ -318,12 +318,13 @@
 				A8C87A582BD3B31400D1D303 /* BuyCellDisplayModel.swift in Sources */,
 				A8C87A372BD3A41000D1D303 /* SwitcherCell.swift in Sources */,
 				A8C87A472BD3A62300D1D303 /* TableViewAdapterInput.swift in Sources */,
+				A8C87ACE2BD41A0F00D1D303 /* MyTableViewAdapterInput.swift in Sources */,
 				A8C87A452BD3A62300D1D303 /* SectionAdapterInput.swift in Sources */,
 				A8C87A462BD3A62300D1D303 /* TableViewAdapter.swift in Sources */,
 				A8C87A512BD3AF6C00D1D303 /* DataLoader.swift in Sources */,
-				A8C87A4C2BD3AC5B00D1D303 /* MyTableViewAdapter.swift in Sources */,
 				A8C87A5B2BD3B51500D1D303 /* MySectionAdapterInput.swift in Sources */,
 				A8C87A432BD3A62300D1D303 /* CellAdapterInput.swift in Sources */,
+				A8C87ACD2BD41A0F00D1D303 /* MyTableViewAdapter.swift in Sources */,
 				A8C87A562BD3B30500D1D303 /* BuyCell.swift in Sources */,
 				A8C87A302BD3A1F000D1D303 /* SecondViewController.swift in Sources */,
 				A8C87A442BD3A62300D1D303 /* CellsSetSectionAdapter.swift in Sources */,
@@ -331,7 +332,6 @@
 				A8C87A672BD3CF2900D1D303 /* MyCellAdapterInput.swift in Sources */,
 				A8C87A322BD3A22C00D1D303 /* ThirdViewController.swift in Sources */,
 				A8C87A1A2BD3A12D00D1D303 /* AppDelegate.swift in Sources */,
-				A8C87A4E2BD3AEE000D1D303 /* MyTableViewAdapterInput.swift in Sources */,
 				A8C87A642BD3CE9100D1D303 /* MyCellsSetSectionAdapter.swift in Sources */,
 				A8C87A1C2BD3A12D00D1D303 /* SceneDelegate.swift in Sources */,
 			);
